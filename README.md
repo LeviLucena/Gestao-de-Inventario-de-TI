@@ -7,25 +7,25 @@ Este projeto é um sistema de gestão de equipamentos de TI que permite o regist
 ### Funcionalidades
 
 - Registro de entrada de equipamentos, incluindo marca, modelo, série, tipo, layout, preço e observação.
--Registro de saída de equipamentos, com opção de selecionar o equipamento a ser retirado da entrada disponível.
--Armazenamento dos dados em um banco de dados MySQL.
--Exibição dos equipamentos registrados em tabelas separadas para entrada e saída, permitindo fácil visualização e filtragem.
--Possibilidade de edição e exclusão de registros existentes.
--Interface responsiva e amigável, permitindo o acesso através de diferentes dispositivos.
+- Registro de saída de equipamentos, com opção de selecionar o equipamento a ser retirado da entrada disponível.
+- Armazenamento dos dados em um banco de dados MySQL.
+- Exibição dos equipamentos registrados em tabelas separadas para entrada e saída, permitindo fácil visualização e filtragem.
+- Possibilidade de edição e exclusão de registros existentes.
+- Interface responsiva e amigável, permitindo o acesso através de diferentes dispositivos.
 
 ### Requisitos
 
--Servidor web com suporte a PHP e MySQL.
--Banco de dados MySQL para armazenar os dados dos equipamentos.
--Bibliotecas e frameworks utilizados: Bootstrap, DataTables.
+- Servidor web com suporte a PHP e MySQL.
+- Banco de dados MySQL para armazenar os dados dos equipamentos.
+- Bibliotecas e frameworks utilizados: Bootstrap, DataTables.
 
 ### Instruções de Instalação
 
--Clone o repositório para o seu ambiente local.
--Importe o arquivo SQL fornecido para criar o banco de dados e as tabelas necessárias.
--Configure as informações de conexão com o banco de dados no arquivo de configuração.
--Configure o servidor web para apontar para o diretório do projeto.
--Acesse a aplicação através do navegador web.
+- Clone o repositório para o seu ambiente local.
+- Importe o arquivo SQL fornecido para criar o banco de dados e as tabelas necessárias.
+- Configure as informações de conexão com o banco de dados no arquivo de configuração.
+- Configure o servidor web para apontar para o diretório do projeto.
+- Acesse a aplicação através do navegador web.
 
 ### Contribuições
 
