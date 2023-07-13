@@ -6,7 +6,7 @@ Este projeto é um sistema de gestão de equipamentos de TI que permite o regist
 
 ### Funcionalidades
 
--Registro de entrada de equipamentos, incluindo marca, modelo, série, tipo, layout, preço e observação.
+- Registro de entrada de equipamentos, incluindo marca, modelo, série, tipo, layout, preço e observação.
 -Registro de saída de equipamentos, com opção de selecionar o equipamento a ser retirado da entrada disponível.
 -Armazenamento dos dados em um banco de dados MySQL.
 -Exibição dos equipamentos registrados em tabelas separadas para entrada e saída, permitindo fácil visualização e filtragem.
