@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- ====================================================================== -->
+<!--  Desenvolvido por Levi Lucena - linkedin.com/in/levilucena -->
+<!-- ====================================================================== -->
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
@@ -51,5 +54,12 @@
             </div>
         </div>
     </div>
+
+<!-- Botão "Gestão" -->
+<div class="text-center">
+    <img src="imagens/estoque.png" class="imagem" onclick="window.location.href='gestao.php'" alt="Imagem Estoque">
+</div>
+
+
 </body>
 </html>
