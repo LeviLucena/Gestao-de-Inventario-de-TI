@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- ====================================================================== -->
+<!--  Desenvolvido por Levi Lucena - linkedin.com/in/levilucena -->
+<!-- ====================================================================== -->
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
@@ -15,6 +18,11 @@
     <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
 </head>
 <body>
+
+<!-- Botão "Voltar" -->
+<div class="text-left" style="margin-top: 20px;">
+    <button onclick="window.location.href='index.php'" class="btn btn-primary">Voltar</button>
+</div>
 
 <h1 class="text-center">Gestão de Entrada de Equipamento - Notebook</h1>
 <form method="post">
