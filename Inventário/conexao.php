@@ -1,4 +1,8 @@
 <?php
+// ====================================================================== //
+//  Desenvolvido por Levi Lucena - linkedin.com/in/levilucena -->
+// ====================================================================== //
+
 // Dados de conexão com o banco de dados
 $host = 'localhost';
 $username = 'root';
