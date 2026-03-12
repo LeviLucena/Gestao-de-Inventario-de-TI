@@ -1,3 +1,9 @@
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hack](https://img.shields.io/badge/Hack-HHVM-AA00FF?style=for-the-badge)
 # Gestão de Equipamentos de TI
 
 Este projeto é um sistema de gestão de equipamentos de TI que permite o registro e controle de entrada e saída de diversos tipos de equipamentos, como CPUs, monitores, teclados, mouses, notebooks, impressoras e componentes. Ele é desenvolvido usando PHP, MySQL, HTML, CSS e JavaScript.
